@@ -1,0 +1,10 @@
+c:\users\rupendra\documents\visual studio 2012\Projects\TGBG Polytechnic\TGBG Polytechnic\bin\Debug\TGBG Polytechnic.exe.config
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\bin\Debug\TGBG Polytechnic.exe.config
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\bin\Debug\TGBG Polytechnic.exe
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\bin\Debug\TGBG Polytechnic.pdb
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\bin\Debug\TGBG Polytechnic.xml
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\obj\Debug\TGBG_Polytechnic.Resources.resources
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\obj\Debug\TGBG Polytechnic.vbproj.GenerateResource.Cache
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\obj\Debug\TGBG Polytechnic.exe
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\obj\Debug\TGBG Polytechnic.xml
+C:\Users\Rupendra\Documents\Visual Studio 2013\Projects\TGBG Polytechnic\TGBG Polytechnic\obj\Debug\TGBG Polytechnic.pdb
